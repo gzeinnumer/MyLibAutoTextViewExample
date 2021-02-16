@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AutoCompleteTextView;
 
-import com.gzeinnumer.mylibautotextview.AdapterAutoCompleteText;
+import com.gzeinnumer.ad.AdapterAutoCompleteText;
 
 import java.util.ArrayList;
 
